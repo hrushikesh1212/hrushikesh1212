@@ -19,7 +19,7 @@
 
 <p align="left">
 
-<a href="https://www.linkedin.com/in/godavarthy-venu-gopal-hrushi-kesh-ab664b27b">
+<a href="https://www.linkedin.com/in/venu-gopal-hrushi-kesh-godavarthy-ab664b27b">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
