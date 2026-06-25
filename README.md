@@ -103,14 +103,32 @@
 
 ## 🚀 Featured Projects
 
+### ## 🚀 Featured Projects
+
 ### 🌱 Agri-Assist
-AI powered crop disease detection using **Deep Learning & ConvNeXt**
 
-### 🎤 Voice Recognition System
-Speech recognition using **Python + Google Speech API**
+AI-powered crop disease detection, weather forecasting, and smart farming recommendations using **Deep Learning, ConvNeXt, ONNX & Generative AI**.
 
-### 🤖 AI Chatbot
-Conversational chatbot using **Python & NLP**
+### 🛣️ Ultra-Fast Lane Detection
+
+Real-time lane detection system for autonomous driving using **PyTorch, Computer Vision, and Deep Learning**.
+
+### 🎤 AI Mock Interview
+
+AI-powered mock interview platform that generates interview questions, evaluates responses, and provides personalized feedback using **Google Gemini AI, Next.js, React & Firebase**.
+
+### 🛡️ Campus Safety Object Detection
+
+Real-time object detection system for campus surveillance using **YOLO, OpenCV, and Deep Learning**.
+
+### 🤖 Plant Disease Detection
+
+Intelligent plant disease classification system using **Convolutional Neural Networks (CNN), Computer Vision, and AI**.
+
+### 📊 Stock Price Prediction
+
+Machine learning-based stock market prediction using **Python, LSTM, Time Series Analysis, and Data Visualization**.
+
 
 ---
 
